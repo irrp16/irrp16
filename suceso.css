@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+}
+.title{
+    font-size: 8em;
+    color:blue;
+}
+
+#principal{
+    font-size: 40px;
+    color:rgb(36, 99, 51);
+}
+.logo{
+    width: 80em;
+}
+#titulos{
+   
+    border: 2px solid   black;
+    width: 90vw;
+    margin: 2em;
+    margin: auto;
+    padding:2px 2em 0px 1em;
+    border-radius: 15%;
+}
+#cards-container{
+    background-color: aquamarine;
+}
